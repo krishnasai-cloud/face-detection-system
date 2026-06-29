@@ -41,4 +41,4 @@ Very new Python releases (3.13/3.14) may not yet have prebuilt OpenCV wheels. If
 
 
 A webcam (optional — video files can be used instead)
-Windows, macOS, or Li
+Windows, macOS, or Linux
