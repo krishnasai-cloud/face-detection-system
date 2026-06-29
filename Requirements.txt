@@ -1,0 +1,18 @@
+Requirements · TXT
+# requirements.txt
+# Face Detection System v6.0
+# -----------------------------------------------------------------
+# Install all dependencies with:
+#     pip install -r requirements.txt
+#
+# NOTE: tkinter is part of Python's standard library and is NOT
+# installed via pip.
+#   - Windows / macOS: included automatically with the official
+#     Python installer from https://www.python.org
+#   - Linux: install manually if missing:
+#       sudo apt install python3-tk
+# -----------------------------------------------------------------
+ 
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.26.0
