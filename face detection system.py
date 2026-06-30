@@ -1,12 +1,4 @@
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║        FACE DETECTION SYSTEM  —  v6.0                          ║
-║        Zero Errors  |  Beautiful UI  |  Thonny IDE Ready       ║
-╚══════════════════════════════════════════════════════════════════╝
 
-  INSTALL:  pip install opencv-python pillow numpy
-  RUN:      Open in Thonny IDE → Press F5
-"""
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
